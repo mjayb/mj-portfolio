@@ -1,1 +1,1 @@
-# mj-potfolio
+# mj-portfolio
